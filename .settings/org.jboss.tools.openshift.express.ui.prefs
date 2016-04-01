@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=56f867f90c1e66d2e200000f
+org.jboss.tools.openshift.ApplicationName=okewebservice
+org.jboss.tools.openshift.Connection=https\://ortek26%40gmail.com@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=itsoeh
+org.jboss.tools.openshift.RemoteName=origin
